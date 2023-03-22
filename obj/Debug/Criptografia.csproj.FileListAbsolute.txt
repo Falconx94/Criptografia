@@ -1,0 +1,11 @@
+A:\REPOSITORIOS\TEAM CRIPTO\Criptografia\bin\Debug\Criptografia.exe.config
+A:\REPOSITORIOS\TEAM CRIPTO\Criptografia\bin\Debug\Criptografia.exe
+A:\REPOSITORIOS\TEAM CRIPTO\Criptografia\bin\Debug\Criptografia.pdb
+A:\REPOSITORIOS\TEAM CRIPTO\Criptografia\obj\Debug\Criptografia.csproj.AssemblyReference.cache
+A:\REPOSITORIOS\TEAM CRIPTO\Criptografia\obj\Debug\Criptografia.csproj.SuggestedBindingRedirects.cache
+A:\REPOSITORIOS\TEAM CRIPTO\Criptografia\obj\Debug\Criptografia.Form1.resources
+A:\REPOSITORIOS\TEAM CRIPTO\Criptografia\obj\Debug\Criptografia.Properties.Resources.resources
+A:\REPOSITORIOS\TEAM CRIPTO\Criptografia\obj\Debug\Criptografia.csproj.GenerateResource.cache
+A:\REPOSITORIOS\TEAM CRIPTO\Criptografia\obj\Debug\Criptografia.csproj.CoreCompileInputs.cache
+A:\REPOSITORIOS\TEAM CRIPTO\Criptografia\obj\Debug\Criptografia.exe
+A:\REPOSITORIOS\TEAM CRIPTO\Criptografia\obj\Debug\Criptografia.pdb
